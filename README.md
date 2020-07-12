@@ -4,7 +4,7 @@
 
 See the deployed website here:
 
-https://maxsem4.github.io/GoogleBookSearch/
+https://google-book-search1234321.herokuapp.com/
 
 ![Image description](./GoogleBookSearch/src/assets/images/SS1.png)
 
